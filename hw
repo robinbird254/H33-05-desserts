@@ -1,0 +1,51 @@
+<html>
+<head>
+    <title>Desserts</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Desserts</h1>
+
+<div id="categories">
+
+<div class="category" id="category1">
+    <h3>Icecream</h3>
+    <input type="text" value="Vanilla">
+    <input type="text" value="Chocolate">
+    <input type="text" value="Strawberry">
+</div>
+
+<div class="category" id="category2">
+    <h3>Waffles</h3>
+    <input type="text" value="Pure">
+    <input type="text" value="Syrup">
+    <input type="text" value="Sugar">
+</div>
+
+<div class="category" id="category3">
+    <h3>Other</h3>
+    <input type="text" value="Coffee">
+    <input type="text" value="Tea">
+    <input type="text" value="Fruit">
+</div>
+
+</div>
+
+<div id="recipe">
+<pre>
+4 cups 2% reduced-fat milk
+½ cup sugar
+1 teaspoon vanilla extract
+
+Combine all ingredients in a bowl, stirring with a whisk until sugar dissolves.
+Pour into an 8-inch square glass or ceramic baking dish.
+Cover and freeze until partially frozen (about 1 hour).
+Scrape with a fork, crushing any lumps.
+Freeze, scraping with a fork every hour, 2 hours or until completely frozen.
+</pre>
+</div>
+
+</body>
+</html>
